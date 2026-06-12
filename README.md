@@ -6,7 +6,7 @@ SquadGraph Explorer turns the canonical `players.json` dataset into a queryable 
 
 ## Live demo
 
-Deployment: _filled after Vercel deploy_
+Deployment: https://arena-the-squad-graph-gpt.vercel.app
 
 Repository: https://github.com/layerx-labs/arena-the-squad-graph-gpt
 
