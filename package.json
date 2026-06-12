@@ -1,0 +1,25 @@
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "npm run build:graph && next build",
+    "start": "next start",
+    "build:graph": "tsx scripts/build-graph.ts",
+    "validate": "tsx scripts/validate-graph.ts",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "typescript": "latest",
+    "tsx": "latest",
+    "vitest": "latest",
+    "eslint": "latest"
+  }
+}
