@@ -1,0 +1,2560 @@
+{
+  "dateless_stints": [
+    {
+      "qid": "Q84312754",
+      "name": "David Zima",
+      "club": "Q194393"
+    },
+    {
+      "qid": "Q114713721",
+      "name": "Štěpán Chaloupek",
+      "club": "Q738886"
+    },
+    {
+      "qid": "Q97312966",
+      "name": "Lukáš Červ",
+      "club": "Q125102801"
+    },
+    {
+      "qid": "Q28801942",
+      "name": "Michal Sadílek",
+      "club": "Q13534332"
+    },
+    {
+      "qid": "Q56433831",
+      "name": "Luis Romo",
+      "club": "Q606210"
+    },
+    {
+      "qid": "Q98092491",
+      "name": "Álvaro Fidalgo",
+      "club": "Q12217"
+    },
+    {
+      "qid": "Q98092491",
+      "name": "Álvaro Fidalgo",
+      "club": "Q2511257"
+    },
+    {
+      "qid": "Q98092491",
+      "name": "Álvaro Fidalgo",
+      "club": "Q743557"
+    },
+    {
+      "qid": "Q98092491",
+      "name": "Álvaro Fidalgo",
+      "club": "Q459090"
+    },
+    {
+      "qid": "Q98092491",
+      "name": "Álvaro Fidalgo",
+      "club": "Q8723"
+    },
+    {
+      "qid": "Q26707107",
+      "name": "Carlos Acevedo",
+      "club": "Q745246"
+    },
+    {
+      "qid": "Q22082627",
+      "name": "Julián Quiñones",
+      "club": "Q1570132"
+    },
+    {
+      "qid": "Q50820392",
+      "name": "César Huerta",
+      "club": "Q503321"
+    },
+    {
+      "qid": "Q50820392",
+      "name": "César Huerta",
+      "club": "Q187528"
+    },
+    {
+      "qid": "Q22092356",
+      "name": "Jesús Gallardo",
+      "club": "Q1143000"
+    },
+    {
+      "qid": "Q22092264",
+      "name": "Luis Chávez",
+      "club": "Q1103168"
+    },
+    {
+      "qid": "Q22092264",
+      "name": "Luis Chávez",
+      "club": "Q736937"
+    },
+    {
+      "qid": "Q22092264",
+      "name": "Luis Chávez",
+      "club": "Q17497"
+    },
+    {
+      "qid": "Q26405966",
+      "name": "Aubrey Modiba",
+      "club": "Q607939"
+    },
+    {
+      "qid": "Q58810793",
+      "name": "Khuliso Mudau",
+      "club": "Q85770382"
+    },
+    {
+      "qid": "Q106779330",
+      "name": "Lee Han-beom",
+      "club": "Q618520"
+    },
+    {
+      "qid": "Q79904514",
+      "name": "Kim Tae-hyeon",
+      "club": "Q129673"
+    },
+    {
+      "qid": "Q19603924",
+      "name": "Hwang In-beom",
+      "club": "Q134241"
+    },
+    {
+      "qid": "Q70251271",
+      "name": "Armin Gigović",
+      "club": "Q863273"
+    },
+    {
+      "qid": "Q47067481",
+      "name": "Ermedin Demirović",
+      "club": "Q51974"
+    },
+    {
+      "qid": "Q56222105",
+      "name": "Alfie Jones",
+      "club": "Q319136"
+    },
+    {
+      "qid": "Q35009041",
+      "name": "Stephen Eustáquio",
+      "club": "Q1853273"
+    },
+    {
+      "qid": "Q16935084",
+      "name": "Cyle Larin",
+      "club": "Q8835"
+    },
+    {
+      "qid": "Q50505969",
+      "name": "Liam Millar",
+      "club": "Q18708"
+    },
+    {
+      "qid": "Q64009768",
+      "name": "Jacob Shaffelburg",
+      "club": "Q19931776"
+    },
+    {
+      "qid": "Q116146104",
+      "name": "Moïse Bombito",
+      "club": "Q104422415"
+    },
+    {
+      "qid": "Q22096162",
+      "name": "Richie Laryea",
+      "club": "Q4701707"
+    },
+    {
+      "qid": "Q61911369",
+      "name": "Mahmud Abunada",
+      "club": "Q283760"
+    },
+    {
+      "qid": "Q1957458",
+      "name": "Edmilson Junior",
+      "club": "Q138248"
+    },
+    {
+      "qid": "Q27671280",
+      "name": "Sultan Al-Brake",
+      "club": "Q1056948"
+    },
+    {
+      "qid": "Q125376751",
+      "name": "Johan Manzambi",
+      "club": "Q219235"
+    },
+    {
+      "qid": "Q16236380",
+      "name": "Yvon Mvogo",
+      "club": "Q702455"
+    },
+    {
+      "qid": "Q16236380",
+      "name": "Yvon Mvogo",
+      "club": "Q11938"
+    },
+    {
+      "qid": "Q27995699",
+      "name": "Djibril Sow",
+      "club": "Q190526"
+    },
+    {
+      "qid": "Q27306208",
+      "name": "Christian Fassnacht",
+      "club": "Q190526"
+    },
+    {
+      "qid": "Q55286732",
+      "name": "Noah Okafor",
+      "club": "Q189671"
+    },
+    {
+      "qid": "Q27469951",
+      "name": "Michel Aebischer",
+      "club": "Q190526"
+    },
+    {
+      "qid": "Q59150057",
+      "name": "Éderson Silva",
+      "club": "Q188277"
+    },
+    {
+      "qid": "Q99557093",
+      "name": "Danilo Santos",
+      "club": "Q80964"
+    },
+    {
+      "qid": "Q115937989",
+      "name": "Rayan",
+      "club": "Q5014111"
+    },
+    {
+      "qid": "Q20740578",
+      "name": "Carlens Arcus",
+      "club": "Q638657"
+    },
+    {
+      "qid": "Q28801770",
+      "name": "Ricardo Adé",
+      "club": "Q515425"
+    },
+    {
+      "qid": "Q26251607",
+      "name": "Jean-Ricner Bellegarde",
+      "club": "Q191843"
+    },
+    {
+      "qid": "Q72697581",
+      "name": "Louicius Deedson",
+      "club": "Q17165601"
+    },
+    {
+      "qid": "Q21621771",
+      "name": "Duke Lacroix",
+      "club": "Q18148271"
+    },
+    {
+      "qid": "Q21621771",
+      "name": "Duke Lacroix",
+      "club": "Q19867571"
+    },
+    {
+      "qid": "Q42926090",
+      "name": "Josué Duverger",
+      "club": "Q208585"
+    },
+    {
+      "qid": "Q26266244",
+      "name": "Noussair Mazraoui",
+      "club": "Q81888"
+    },
+    {
+      "qid": "Q42948040",
+      "name": "Ayoub El Kaabi",
+      "club": "Q1906329"
+    },
+    {
+      "qid": "Q65131685",
+      "name": "Anass Salah-Eddine",
+      "club": "Q81888"
+    },
+    {
+      "qid": "Q20807705",
+      "name": "Angus Gunn",
+      "club": "Q50602"
+    },
+    {
+      "qid": "Q20807705",
+      "name": "Angus Gunn",
+      "club": "Q18721"
+    },
+    {
+      "qid": "Q1362064",
+      "name": "Grant Hanley",
+      "club": "Q854890"
+    },
+    {
+      "qid": "Q27448075",
+      "name": "Liam Kelly",
+      "club": "Q19597"
+    },
+    {
+      "qid": "Q47126518",
+      "name": "Ross Stewart",
+      "club": "Q319136"
+    },
+    {
+      "qid": "Q27914873",
+      "name": "George Hirst",
+      "club": "Q19498"
+    },
+    {
+      "qid": "Q47467341",
+      "name": "Lewis Ferguson",
+      "club": "Q19597"
+    },
+    {
+      "qid": "Q83264648",
+      "name": "Nathan Patterson",
+      "club": "Q19597"
+    },
+    {
+      "qid": "Q24084667",
+      "name": "Scott McKenna",
+      "club": "Q793241"
+    },
+    {
+      "qid": "Q14309492",
+      "name": "Miloš Degenek",
+      "club": "Q4512"
+    },
+    {
+      "qid": "Q43303848",
+      "name": "Jacob Italiano",
+      "club": "Q852033"
+    },
+    {
+      "qid": "Q10556049",
+      "name": "Jason Geria",
+      "club": "Q839997"
+    },
+    {
+      "qid": "Q10556049",
+      "name": "Jason Geria",
+      "club": "Q316789"
+    },
+    {
+      "qid": "Q10556049",
+      "name": "Jason Geria",
+      "club": "Q646204"
+    },
+    {
+      "qid": "Q10556049",
+      "name": "Jason Geria",
+      "club": "Q852033"
+    },
+    {
+      "qid": "Q10556049",
+      "name": "Jason Geria",
+      "club": "Q383358"
+    },
+    {
+      "qid": "Q84593316",
+      "name": "Mohamed Touré",
+      "club": "Q354059"
+    },
+    {
+      "qid": "Q29109911",
+      "name": "Ajdin Hrustic",
+      "club": "Q19490"
+    },
+    {
+      "qid": "Q26485052",
+      "name": "Aiden O'Neill",
+      "club": "Q19601"
+    },
+    {
+      "qid": "Q57017726",
+      "name": "Cammy Devlin",
+      "club": "Q330143"
+    },
+    {
+      "qid": "Q126284601",
+      "name": "Patrick Beach",
+      "club": "Q748725"
+    },
+    {
+      "qid": "Q109924046",
+      "name": "Cristian Volpato",
+      "club": "Q18124291"
+    },
+    {
+      "qid": "Q109924046",
+      "name": "Cristian Volpato",
+      "club": "Q2739"
+    },
+    {
+      "qid": "Q109924046",
+      "name": "Cristian Volpato",
+      "club": "Q8603"
+    },
+    {
+      "qid": "Q20888302",
+      "name": "Gustavo Velázquez",
+      "club": "Q603101"
+    },
+    {
+      "qid": "Q41800131",
+      "name": "Omar Alderete",
+      "club": "Q18640"
+    },
+    {
+      "qid": "Q16297591",
+      "name": "Fabián Balbuena",
+      "club": "Q18747"
+    },
+    {
+      "qid": "Q11091593",
+      "name": "Júnior Alonso",
+      "club": "Q8749"
+    },
+    {
+      "qid": "Q11091593",
+      "name": "Júnior Alonso",
+      "club": "Q220854"
+    },
+    {
+      "qid": "Q10856523",
+      "name": "Antonio Sanabria",
+      "club": "Q7156"
+    },
+    {
+      "qid": "Q65718498",
+      "name": "Maurício",
+      "club": "Q188277"
+    },
+    {
+      "qid": "Q60842077",
+      "name": "Orlando Gill",
+      "club": "Q2980003"
+    },
+    {
+      "qid": "Q50105161",
+      "name": "José Canale",
+      "club": "Q848642"
+    },
+    {
+      "qid": "Q16298600",
+      "name": "Andrés Cubas",
+      "club": "Q2710"
+    },
+    {
+      "qid": "Q16298600",
+      "name": "Andrés Cubas",
+      "club": "Q170703"
+    },
+    {
+      "qid": "Q1033783",
+      "name": "Gustavo Gómez",
+      "club": "Q1543"
+    },
+    {
+      "qid": "Q60828724",
+      "name": "Braian Ojeda",
+      "club": "Q19490"
+    },
+    {
+      "qid": "Q14592575",
+      "name": "Gabriel Ávalos",
+      "club": "Q1773830"
+    },
+    {
+      "qid": "Q14592575",
+      "name": "Gabriel Ávalos",
+      "club": "Q220621"
+    },
+    {
+      "qid": "Q26965570",
+      "name": "Salih Özcan",
+      "club": "Q104770"
+    },
+    {
+      "qid": "Q113184832",
+      "name": "Kenan Yıldız",
+      "club": "Q1422"
+    },
+    {
+      "qid": "Q56043430",
+      "name": "Yunus Akgün",
+      "club": "Q495299"
+    },
+    {
+      "qid": "Q19871581",
+      "name": "Tyler Adams",
+      "club": "Q1128631"
+    },
+    {
+      "qid": "Q19871581",
+      "name": "Tyler Adams",
+      "club": "Q19568"
+    },
+    {
+      "qid": "Q35778151",
+      "name": "Antonee Robinson",
+      "club": "Q5794"
+    },
+    {
+      "qid": "Q35778151",
+      "name": "Antonee Robinson",
+      "club": "Q18750"
+    },
+    {
+      "qid": "Q62597239",
+      "name": "Ricardo Pepi",
+      "club": "Q642291"
+    },
+    {
+      "qid": "Q62597239",
+      "name": "Ricardo Pepi",
+      "club": "Q60761240"
+    },
+    {
+      "qid": "Q62597239",
+      "name": "Ricardo Pepi",
+      "club": "Q15755"
+    },
+    {
+      "qid": "Q62597239",
+      "name": "Ricardo Pepi",
+      "club": "Q24711"
+    },
+    {
+      "qid": "Q62597239",
+      "name": "Ricardo Pepi",
+      "club": "Q11938"
+    },
+    {
+      "qid": "Q86301356",
+      "name": "Sebastian Berhalter",
+      "club": "Q19564744"
+    },
+    {
+      "qid": "Q86301356",
+      "name": "Sebastian Berhalter",
+      "club": "Q196107"
+    },
+    {
+      "qid": "Q117309867",
+      "name": "Max Arfsten",
+      "club": "Q130482257"
+    },
+    {
+      "qid": "Q32666318",
+      "name": "Juriën Gaari",
+      "club": "Q2097336"
+    },
+    {
+      "qid": "Q32666318",
+      "name": "Juriën Gaari",
+      "club": "Q24699"
+    },
+    {
+      "qid": "Q56787768",
+      "name": "Roshon van Eijma",
+      "club": "Q24719"
+    },
+    {
+      "qid": "Q60047739",
+      "name": "Godfried Roemeratoe",
+      "club": "Q19603"
+    },
+    {
+      "qid": "Q1885",
+      "name": "Jürgen Locadia",
+      "club": "Q242260"
+    },
+    {
+      "qid": "Q249344",
+      "name": "Leandro Bacuna",
+      "club": "Q18729"
+    },
+    {
+      "qid": "Q64224437",
+      "name": "Sontje Hansen",
+      "club": "Q81888"
+    },
+    {
+      "qid": "Q13546781",
+      "name": "Brandley Kuwas",
+      "club": "Q11961"
+    },
+    {
+      "qid": "Q27514541",
+      "name": "Armando Obispo",
+      "club": "Q11938"
+    },
+    {
+      "qid": "Q14517123",
+      "name": "Gervane Kastaneer",
+      "club": "Q8466"
+    },
+    {
+      "qid": "Q46709013",
+      "name": "Kevin Felida",
+      "club": "Q875169"
+    },
+    {
+      "qid": "Q30916190",
+      "name": "Félix Torres",
+      "club": "Q114897472"
+    },
+    {
+      "qid": "Q60842122",
+      "name": "Jordy Alcívar",
+      "club": "Q249643"
+    },
+    {
+      "qid": "Q58215731",
+      "name": "John Yeboah",
+      "club": "Q101859"
+    },
+    {
+      "qid": "Q58215731",
+      "name": "John Yeboah",
+      "club": "Q16645947"
+    },
+    {
+      "qid": "Q56599873",
+      "name": "Ángelo Preciado",
+      "club": "Q249648"
+    },
+    {
+      "qid": "Q60842120",
+      "name": "Gonzalo Plata",
+      "club": "Q75729"
+    },
+    {
+      "qid": "Q60842120",
+      "name": "Gonzalo Plata",
+      "club": "Q249648"
+    },
+    {
+      "qid": "Q65964628",
+      "name": "Jamie Leweling",
+      "club": "Q153539"
+    },
+    {
+      "qid": "Q19274473",
+      "name": "Nadiem Amiri",
+      "club": "Q8466"
+    },
+    {
+      "qid": "Q19274473",
+      "name": "Nadiem Amiri",
+      "club": "Q2074"
+    },
+    {
+      "qid": "Q19274473",
+      "name": "Nadiem Amiri",
+      "club": "Q105254"
+    },
+    {
+      "qid": "Q19274473",
+      "name": "Nadiem Amiri",
+      "club": "Q104761"
+    },
+    {
+      "qid": "Q20435178",
+      "name": "Alexander Nübel",
+      "club": "Q180305"
+    },
+    {
+      "qid": "Q60889488",
+      "name": "Felix Nmecha",
+      "club": "Q50602"
+    },
+    {
+      "qid": "Q29158696",
+      "name": "Ghislain Konan",
+      "club": "Q852266"
+    },
+    {
+      "qid": "Q29158696",
+      "name": "Ghislain Konan",
+      "club": "Q170903"
+    },
+    {
+      "qid": "Q6171506",
+      "name": "Jean Michaël Seri",
+      "club": "Q18708"
+    },
+    {
+      "qid": "Q6171506",
+      "name": "Jean Michaël Seri",
+      "club": "Q5423714"
+    },
+    {
+      "qid": "Q6171506",
+      "name": "Jean Michaël Seri",
+      "club": "Q495299"
+    },
+    {
+      "qid": "Q6171506",
+      "name": "Jean Michaël Seri",
+      "club": "Q172476"
+    },
+    {
+      "qid": "Q6171506",
+      "name": "Jean Michaël Seri",
+      "club": "Q19477"
+    },
+    {
+      "qid": "Q78255759",
+      "name": "Wilfried Singo",
+      "club": "Q2768"
+    },
+    {
+      "qid": "Q78255759",
+      "name": "Wilfried Singo",
+      "club": "Q180305"
+    },
+    {
+      "qid": "Q41791648",
+      "name": "Christopher Opéri",
+      "club": "Q845067"
+    },
+    {
+      "qid": "Q27832634",
+      "name": "Ibrahim Sangaré",
+      "club": "Q19518"
+    },
+    {
+      "qid": "Q27832634",
+      "name": "Ibrahim Sangaré",
+      "club": "Q11938"
+    },
+    {
+      "qid": "Q27832634",
+      "name": "Ibrahim Sangaré",
+      "club": "Q298294"
+    },
+    {
+      "qid": "Q69523791",
+      "name": "Emmanuel Agbadou",
+      "club": "Q2145744"
+    },
+    {
+      "qid": "Q28971436",
+      "name": "Evan Ndicka",
+      "club": "Q182876"
+    },
+    {
+      "qid": "Q28971436",
+      "name": "Evan Ndicka",
+      "club": "Q38245"
+    },
+    {
+      "qid": "Q125805788",
+      "name": "Bazoumana Touré",
+      "club": "Q460724"
+    },
+    {
+      "qid": "Q50073536",
+      "name": "Yukinari Sugawara",
+      "club": "Q249662"
+    },
+    {
+      "qid": "Q50073536",
+      "name": "Yukinari Sugawara",
+      "club": "Q191264"
+    },
+    {
+      "qid": "Q50073536",
+      "name": "Yukinari Sugawara",
+      "club": "Q18732"
+    },
+    {
+      "qid": "Q47582288",
+      "name": "Shuto Machino",
+      "club": "Q854932"
+    },
+    {
+      "qid": "Q47582288",
+      "name": "Shuto Machino",
+      "club": "Q1151182"
+    },
+    {
+      "qid": "Q47582288",
+      "name": "Shuto Machino",
+      "club": "Q692856"
+    },
+    {
+      "qid": "Q30925365",
+      "name": "Keisuke Ōsako",
+      "club": "Q630279"
+    },
+    {
+      "qid": "Q45819496",
+      "name": "Keito Nakamura",
+      "club": "Q738423"
+    },
+    {
+      "qid": "Q85884126",
+      "name": "Yuito Suzuki",
+      "club": "Q823384"
+    },
+    {
+      "qid": "Q27990922",
+      "name": "Ayumu Seko",
+      "club": "Q855809"
+    },
+    {
+      "qid": "Q30933054",
+      "name": "Hiroki Itō",
+      "club": "Q249662"
+    },
+    {
+      "qid": "Q30933054",
+      "name": "Hiroki Itō",
+      "club": "Q855401"
+    },
+    {
+      "qid": "Q30933054",
+      "name": "Hiroki Itō",
+      "club": "Q4512"
+    },
+    {
+      "qid": "Q127388493",
+      "name": "Kento Shiogai",
+      "club": "Q318348"
+    },
+    {
+      "qid": "Q26934107",
+      "name": "Justin Kluivert",
+      "club": "Q702455"
+    },
+    {
+      "qid": "Q57456997",
+      "name": "Brian Brobbey",
+      "club": "Q10467"
+    },
+    {
+      "qid": "Q57456997",
+      "name": "Brian Brobbey",
+      "club": "Q104761"
+    },
+    {
+      "qid": "Q60664537",
+      "name": "Crysencio Summerville",
+      "club": "Q1045811"
+    },
+    {
+      "qid": "Q53996595",
+      "name": "Quinten Timber",
+      "club": "Q1770361"
+    },
+    {
+      "qid": "Q95618487",
+      "name": "Jacob Widell Zetterström",
+      "club": "Q622430"
+    },
+    {
+      "qid": "Q107316383",
+      "name": "Gustaf Lagerbielke",
+      "club": "Q10673259"
+    },
+    {
+      "qid": "Q107316383",
+      "name": "Gustaf Lagerbielke",
+      "club": "Q1140767"
+    },
+    {
+      "qid": "Q107316383",
+      "name": "Gustaf Lagerbielke",
+      "club": "Q1680249"
+    },
+    {
+      "qid": "Q107316383",
+      "name": "Gustaf Lagerbielke",
+      "club": "Q211753"
+    },
+    {
+      "qid": "Q107316383",
+      "name": "Gustaf Lagerbielke",
+      "club": "Q221602"
+    },
+    {
+      "qid": "Q105127935",
+      "name": "Isak Hien",
+      "club": "Q622430"
+    },
+    {
+      "qid": "Q105127935",
+      "name": "Isak Hien",
+      "club": "Q602918"
+    },
+    {
+      "qid": "Q105127935",
+      "name": "Isak Hien",
+      "club": "Q8639"
+    },
+    {
+      "qid": "Q29318963",
+      "name": "Gabriel Gudmundsson",
+      "club": "Q584858"
+    },
+    {
+      "qid": "Q106372516",
+      "name": "Herman Johansson",
+      "club": "Q1465095"
+    },
+    {
+      "qid": "Q106372516",
+      "name": "Herman Johansson",
+      "club": "Q1662983"
+    },
+    {
+      "qid": "Q106372516",
+      "name": "Herman Johansson",
+      "club": "Q749138"
+    },
+    {
+      "qid": "Q106967174",
+      "name": "Daniel Svensson",
+      "club": "Q1134557"
+    },
+    {
+      "qid": "Q106967174",
+      "name": "Daniel Svensson",
+      "club": "Q754339"
+    },
+    {
+      "qid": "Q60677561",
+      "name": "Benjamin Nygren",
+      "club": "Q201567"
+    },
+    {
+      "qid": "Q60677561",
+      "name": "Benjamin Nygren",
+      "club": "Q210025"
+    },
+    {
+      "qid": "Q101249011",
+      "name": "Viktor Johansson",
+      "club": "Q460724"
+    },
+    {
+      "qid": "Q10544852",
+      "name": "Ken Sema",
+      "club": "Q2714"
+    },
+    {
+      "qid": "Q10544852",
+      "name": "Ken Sema",
+      "club": "Q2798"
+    },
+    {
+      "qid": "Q56641379",
+      "name": "Hjalmar Ekdal",
+      "club": "Q1162813"
+    },
+    {
+      "qid": "Q56641379",
+      "name": "Hjalmar Ekdal",
+      "club": "Q1471336"
+    },
+    {
+      "qid": "Q56641379",
+      "name": "Hjalmar Ekdal",
+      "club": "Q460724"
+    },
+    {
+      "qid": "Q56641379",
+      "name": "Hjalmar Ekdal",
+      "club": "Q746046"
+    },
+    {
+      "qid": "Q56641379",
+      "name": "Hjalmar Ekdal",
+      "club": "Q754339"
+    },
+    {
+      "qid": "Q16633442",
+      "name": "Carl Starfelt",
+      "club": "Q201567"
+    },
+    {
+      "qid": "Q103979811",
+      "name": "Yasin Ayari",
+      "club": "Q221602"
+    },
+    {
+      "qid": "Q23915221",
+      "name": "Mattias Svanberg",
+      "club": "Q204881"
+    },
+    {
+      "qid": "Q18145133",
+      "name": "Eric Smith",
+      "club": "Q18232"
+    },
+    {
+      "qid": "Q18145133",
+      "name": "Eric Smith",
+      "club": "Q108001798"
+    },
+    {
+      "qid": "Q76591341",
+      "name": "Alexander Bernhardsson",
+      "club": "Q297906"
+    },
+    {
+      "qid": "Q76591341",
+      "name": "Alexander Bernhardsson",
+      "club": "Q11903335"
+    },
+    {
+      "qid": "Q76591341",
+      "name": "Alexander Bernhardsson",
+      "club": "Q211753"
+    },
+    {
+      "qid": "Q76591341",
+      "name": "Alexander Bernhardsson",
+      "club": "Q917708"
+    },
+    {
+      "qid": "Q76591341",
+      "name": "Alexander Bernhardsson",
+      "club": "Q9179167"
+    },
+    {
+      "qid": "Q76591341",
+      "name": "Alexander Bernhardsson",
+      "club": "Q157828"
+    },
+    {
+      "qid": "Q113952820",
+      "name": "Besfort Zeneli",
+      "club": "Q196160"
+    },
+    {
+      "qid": "Q1398221",
+      "name": "Kristoffer Nordfeldt",
+      "club": "Q221602"
+    },
+    {
+      "qid": "Q117789805",
+      "name": "Elliot Stroud",
+      "club": "Q1483030"
+    },
+    {
+      "qid": "Q117789805",
+      "name": "Elliot Stroud",
+      "club": "Q749138"
+    },
+    {
+      "qid": "Q109906009",
+      "name": "Taha Ali",
+      "club": "Q10673259"
+    },
+    {
+      "qid": "Q109906009",
+      "name": "Taha Ali",
+      "club": "Q1680249"
+    },
+    {
+      "qid": "Q109906009",
+      "name": "Taha Ali",
+      "club": "Q204881"
+    },
+    {
+      "qid": "Q109906009",
+      "name": "Taha Ali",
+      "club": "Q207503"
+    },
+    {
+      "qid": "Q109906009",
+      "name": "Taha Ali",
+      "club": "Q260559"
+    },
+    {
+      "qid": "Q109906009",
+      "name": "Taha Ali",
+      "club": "Q765616"
+    },
+    {
+      "qid": "Q17350507",
+      "name": "Ali Abdi",
+      "club": "Q374632"
+    },
+    {
+      "qid": "Q26405549",
+      "name": "Dylan Bronn",
+      "club": "Q18232"
+    },
+    {
+      "qid": "Q64740426",
+      "name": "Elias Achouri",
+      "club": "Q19521"
+    },
+    {
+      "qid": "Q58815643",
+      "name": "Firas Chaouat",
+      "club": "Q1024482"
+    },
+    {
+      "qid": "Q123436577",
+      "name": "Moutaz Neffati",
+      "club": "Q108001798"
+    },
+    {
+      "qid": "Q123436577",
+      "name": "Moutaz Neffati",
+      "club": "Q115578065"
+    },
+    {
+      "qid": "Q17386078",
+      "name": "Yasser Ibrahim",
+      "club": "Q1751138"
+    },
+    {
+      "qid": "Q64681287",
+      "name": "Emam Ashour",
+      "club": "Q223566"
+    },
+    {
+      "qid": "Q27585643",
+      "name": "Ahmed Fatouh",
+      "club": "Q286504"
+    },
+    {
+      "qid": "Q35841433",
+      "name": "Hamdy Fathy",
+      "club": "Q1877396"
+    },
+    {
+      "qid": "Q18225149",
+      "name": "Karim Hafez",
+      "club": "Q191843"
+    },
+    {
+      "qid": "Q41023561",
+      "name": "Mohanad Lasheen",
+      "club": "Q1329368"
+    },
+    {
+      "qid": "Q41187975",
+      "name": "Nabil Emad",
+      "club": "Q18207291"
+    },
+    {
+      "qid": "Q70226579",
+      "name": "Saleh Hardani",
+      "club": "Q862851"
+    },
+    {
+      "qid": "Q65195011",
+      "name": "Ali Nemati",
+      "club": "Q3660911"
+    },
+    {
+      "qid": "Q65195011",
+      "name": "Ali Nemati",
+      "club": "Q242260"
+    },
+    {
+      "qid": "Q137779066",
+      "name": "Danial Eiri",
+      "club": "Q537201"
+    },
+    {
+      "qid": "Q137779066",
+      "name": "Danial Eiri",
+      "club": "Q218033"
+    },
+    {
+      "qid": "Q123469788",
+      "name": "Amirmohammad Razzaghinia",
+      "club": "Q455971"
+    },
+    {
+      "qid": "Q29113776",
+      "name": "Francis de Vries",
+      "club": "Q3856892"
+    },
+    {
+      "qid": "Q29113776",
+      "name": "Francis de Vries",
+      "club": "Q1133590"
+    },
+    {
+      "qid": "Q29113776",
+      "name": "Francis de Vries",
+      "club": "Q538793"
+    },
+    {
+      "qid": "Q102257634",
+      "name": "Marko Stamenić",
+      "club": "Q188430"
+    },
+    {
+      "qid": "Q47544166",
+      "name": "Liberato Cacace",
+      "club": "Q815890"
+    },
+    {
+      "qid": "Q64031855",
+      "name": "Nando Pijnaker",
+      "club": "Q3046573"
+    },
+    {
+      "qid": "Q50829202",
+      "name": "Callum McCowatt",
+      "club": "Q630544"
+    },
+    {
+      "qid": "Q54862548",
+      "name": "Michael Woud",
+      "club": "Q332664"
+    },
+    {
+      "qid": "Q62006806",
+      "name": "Callan Elliot",
+      "club": "Q815890"
+    },
+    {
+      "qid": "Q462503",
+      "name": "Tommy Smith",
+      "club": "Q642408"
+    },
+    {
+      "qid": "Q918049",
+      "name": "Stopira",
+      "club": "Q8760"
+    },
+    {
+      "qid": "Q85797565",
+      "name": "Roberto Lopes",
+      "club": "Q203976"
+    },
+    {
+      "qid": "Q108395046",
+      "name": "Kevin Pina",
+      "club": "Q220854"
+    },
+    {
+      "qid": "Q26704562",
+      "name": "Jovane Cabral",
+      "club": "Q75729"
+    },
+    {
+      "qid": "Q23541080",
+      "name": "Jamiro Monteiro",
+      "club": "Q11961"
+    },
+    {
+      "qid": "Q55433904",
+      "name": "Márcio Rosa",
+      "club": "Q543467"
+    },
+    {
+      "qid": "Q39082970",
+      "name": "Deroy Duarte",
+      "club": "Q209895"
+    },
+    {
+      "qid": "Q62445814",
+      "name": "CJ dos Santos",
+      "club": "Q7387221"
+    },
+    {
+      "qid": "Q30308980",
+      "name": "Abdulelah Al-Amri",
+      "club": "Q309480"
+    },
+    {
+      "qid": "Q23712679",
+      "name": "Hassan Kadesh",
+      "club": "Q73965"
+    },
+    {
+      "qid": "Q21195147",
+      "name": "Mikel Oyarzabal",
+      "club": "Q770740"
+    },
+    {
+      "qid": "Q121422889",
+      "name": "Víctor Muñoz",
+      "club": "Q12217"
+    },
+    {
+      "qid": "Q58011140",
+      "name": "Sebastián Cáceres",
+      "club": "Q1131189"
+    },
+    {
+      "qid": "Q27921765",
+      "name": "Santiago Mele",
+      "club": "Q16320"
+    },
+    {
+      "qid": "Q27921765",
+      "name": "Santiago Mele",
+      "club": "Q978110"
+    },
+    {
+      "qid": "Q27921765",
+      "name": "Santiago Mele",
+      "club": "Q556570"
+    },
+    {
+      "qid": "Q27921765",
+      "name": "Santiago Mele",
+      "club": "Q1103101"
+    },
+    {
+      "qid": "Q27921765",
+      "name": "Santiago Mele",
+      "club": "Q80899"
+    },
+    {
+      "qid": "Q27921765",
+      "name": "Santiago Mele",
+      "club": "Q332524"
+    },
+    {
+      "qid": "Q27921765",
+      "name": "Santiago Mele",
+      "club": "Q768253"
+    },
+    {
+      "qid": "Q13422031",
+      "name": "Guillermo Varela",
+      "club": "Q8682"
+    },
+    {
+      "qid": "Q13422031",
+      "name": "Guillermo Varela",
+      "club": "Q188430"
+    },
+    {
+      "qid": "Q13422031",
+      "name": "Guillermo Varela",
+      "club": "Q17497"
+    },
+    {
+      "qid": "Q26838705",
+      "name": "Agustín Canobbio",
+      "club": "Q506832"
+    },
+    {
+      "qid": "Q58011167",
+      "name": "Maximiliano Araújo",
+      "club": "Q872702"
+    },
+    {
+      "qid": "Q25367692",
+      "name": "Santiago Bueno",
+      "club": "Q7156"
+    },
+    {
+      "qid": "Q60841788",
+      "name": "Juan Manuel Sanabria",
+      "club": "Q499616"
+    },
+    {
+      "qid": "Q64029237",
+      "name": "Manu Koné",
+      "club": "Q19518"
+    },
+    {
+      "qid": "Q64029237",
+      "name": "Manu Koné",
+      "club": "Q101959"
+    },
+    {
+      "qid": "Q124745247",
+      "name": "Robin Risser",
+      "club": "Q126334"
+    },
+    {
+      "qid": "Q124745247",
+      "name": "Robin Risser",
+      "club": "Q503317"
+    },
+    {
+      "qid": "Q124745247",
+      "name": "Robin Risser",
+      "club": "Q522283"
+    },
+    {
+      "qid": "Q124745247",
+      "name": "Robin Risser",
+      "club": "Q191843"
+    },
+    {
+      "qid": "Q16555086",
+      "name": "Fahad Talib",
+      "club": "Q285510"
+    },
+    {
+      "qid": "Q18246217",
+      "name": "Rebin Sulaka",
+      "club": "Q754339"
+    },
+    {
+      "qid": "Q85767808",
+      "name": "Hussein Ali",
+      "club": "Q260559"
+    },
+    {
+      "qid": "Q124350127",
+      "name": "Akam Hashim",
+      "club": "Q1156579"
+    },
+    {
+      "qid": "Q45936149",
+      "name": "Ibrahim Bayesh",
+      "club": "Q285510"
+    },
+    {
+      "qid": "Q45935415",
+      "name": "Mohanad Ali",
+      "club": "Q4115917"
+    },
+    {
+      "qid": "Q106907687",
+      "name": "Ahmed Qasem",
+      "club": "Q1949611"
+    },
+    {
+      "qid": "Q106907687",
+      "name": "Ahmed Qasem",
+      "club": "Q211753"
+    },
+    {
+      "qid": "Q51756997",
+      "name": "Amir Al-Ammari",
+      "club": "Q935299"
+    },
+    {
+      "qid": "Q51756997",
+      "name": "Amir Al-Ammari",
+      "club": "Q201567"
+    },
+    {
+      "qid": "Q51756997",
+      "name": "Amir Al-Ammari",
+      "club": "Q584858"
+    },
+    {
+      "qid": "Q51756997",
+      "name": "Amir Al-Ammari",
+      "club": "Q749138"
+    },
+    {
+      "qid": "Q51756997",
+      "name": "Amir Al-Ammari",
+      "club": "Q931714"
+    },
+    {
+      "qid": "Q58339004",
+      "name": "Kevin Yakob",
+      "club": "Q639723"
+    },
+    {
+      "qid": "Q58339004",
+      "name": "Kevin Yakob",
+      "club": "Q201567"
+    },
+    {
+      "qid": "Q58339004",
+      "name": "Kevin Yakob",
+      "club": "Q7903261"
+    },
+    {
+      "qid": "Q85040729",
+      "name": "Aimar Sher",
+      "club": "Q460724"
+    },
+    {
+      "qid": "Q85040729",
+      "name": "Aimar Sher",
+      "club": "Q1162813"
+    },
+    {
+      "qid": "Q869214",
+      "name": "Ørjan Nyland",
+      "club": "Q18711"
+    },
+    {
+      "qid": "Q18157457",
+      "name": "Kristoffer Ajer",
+      "club": "Q210961"
+    },
+    {
+      "qid": "Q62617279",
+      "name": "Egil Selvik",
+      "club": "Q215302"
+    },
+    {
+      "qid": "Q24007315",
+      "name": "Fredrik André Bjørkan",
+      "club": "Q478167"
+    },
+    {
+      "qid": "Q59268631",
+      "name": "Marcus Holmgren Pedersen",
+      "club": "Q212490"
+    },
+    {
+      "qid": "Q63968167",
+      "name": "Torbjørn Heggem",
+      "club": "Q1112784"
+    },
+    {
+      "qid": "Q100711783",
+      "name": "Thelo Aasgaard",
+      "club": "Q19597"
+    },
+    {
+      "qid": "Q106099213",
+      "name": "Andreas Schjelderup",
+      "club": "Q478167"
+    },
+    {
+      "qid": "Q67089591",
+      "name": "Pathé Ciss",
+      "club": "Q108708"
+    },
+    {
+      "qid": "Q120509822",
+      "name": "Assane Diao",
+      "club": "Q2698432"
+    },
+    {
+      "qid": "Q120509822",
+      "name": "Assane Diao",
+      "club": "Q8723"
+    },
+    {
+      "qid": "Q120509822",
+      "name": "Assane Diao",
+      "club": "Q1120838"
+    },
+    {
+      "qid": "Q105426667",
+      "name": "Bamba Dieng",
+      "club": "Q657883"
+    },
+    {
+      "qid": "Q105426667",
+      "name": "Bamba Dieng",
+      "club": "Q132885"
+    },
+    {
+      "qid": "Q100144350",
+      "name": "Nicolas Jackson",
+      "club": "Q9616"
+    },
+    {
+      "qid": "Q28811942",
+      "name": "Cherif Ndiaye",
+      "club": "Q509170"
+    },
+    {
+      "qid": "Q74178822",
+      "name": "Ismail Jakobs",
+      "club": "Q104770"
+    },
+    {
+      "qid": "Q74178822",
+      "name": "Ismail Jakobs",
+      "club": "Q180305"
+    },
+    {
+      "qid": "Q17686992",
+      "name": "Mory Diaw",
+      "club": "Q483020"
+    },
+    {
+      "qid": "Q45935395",
+      "name": "Pape Gueye",
+      "club": "Q12297"
+    },
+    {
+      "qid": "Q81659662",
+      "name": "Mohamed Amine Tougai",
+      "club": "Q660003"
+    },
+    {
+      "qid": "Q27927442",
+      "name": "Houssem Aouar",
+      "club": "Q2739"
+    },
+    {
+      "qid": "Q98561102",
+      "name": "Jaouen Hadjam",
+      "club": "Q190526"
+    },
+    {
+      "qid": "Q59306433",
+      "name": "Hicham Boudaoui",
+      "club": "Q428782"
+    },
+    {
+      "qid": "Q84601192",
+      "name": "Oussama Benbot",
+      "club": "Q862218"
+    },
+    {
+      "qid": "Q23413053",
+      "name": "Marcos Senesi",
+      "club": "Q218282"
+    },
+    {
+      "qid": "Q65948590",
+      "name": "David Affengruber",
+      "club": "Q1387293"
+    },
+    {
+      "qid": "Q28868192",
+      "name": "Kevin Danso",
+      "club": "Q18729"
+    },
+    {
+      "qid": "Q41447930",
+      "name": "Stefan Posch",
+      "club": "Q22707"
+    },
+    {
+      "qid": "Q34058084",
+      "name": "Saša Kalajdžić",
+      "club": "Q686826"
+    },
+    {
+      "qid": "Q11634138",
+      "name": "Phillipp Mwene",
+      "club": "Q131209"
+    },
+    {
+      "qid": "Q11634138",
+      "name": "Phillipp Mwene",
+      "club": "Q4512"
+    },
+    {
+      "qid": "Q11634138",
+      "name": "Phillipp Mwene",
+      "club": "Q8466"
+    },
+    {
+      "qid": "Q62006510",
+      "name": "Alexander Prass",
+      "club": "Q1387293"
+    },
+    {
+      "qid": "Q55813157",
+      "name": "Michael Svoboda",
+      "club": "Q873577"
+    },
+    {
+      "qid": "Q130244944",
+      "name": "Husam Abu Dahab",
+      "club": "Q285702"
+    },
+    {
+      "qid": "Q33541239",
+      "name": "Nour Bani Attiah",
+      "club": "Q285702"
+    },
+    {
+      "qid": "Q62364798",
+      "name": "Mo Abualnadi",
+      "club": "Q21189793"
+    },
+    {
+      "qid": "Q62364798",
+      "name": "Mo Abualnadi",
+      "club": "Q21189793"
+    },
+    {
+      "qid": "Q62364798",
+      "name": "Mo Abualnadi",
+      "club": "Q19599118"
+    },
+    {
+      "qid": "Q33124960",
+      "name": "Salim Obaid",
+      "club": "Q2829200"
+    },
+    {
+      "qid": "Q60048828",
+      "name": "Abdallah Al-Fakhouri",
+      "club": "Q285649"
+    },
+    {
+      "qid": "Q117289166",
+      "name": "Kevin Castaño",
+      "club": "Q220854"
+    },
+    {
+      "qid": "Q19362872",
+      "name": "Jorge Carrascal",
+      "club": "Q950835"
+    },
+    {
+      "qid": "Q19362872",
+      "name": "Jorge Carrascal",
+      "club": "Q223360"
+    },
+    {
+      "qid": "Q19362872",
+      "name": "Jorge Carrascal",
+      "club": "Q10329"
+    },
+    {
+      "qid": "Q19362872",
+      "name": "Jorge Carrascal",
+      "club": "Q15799"
+    },
+    {
+      "qid": "Q19362872",
+      "name": "Jorge Carrascal",
+      "club": "Q176371"
+    },
+    {
+      "qid": "Q19362872",
+      "name": "Jorge Carrascal",
+      "club": "Q17497"
+    },
+    {
+      "qid": "Q209847",
+      "name": "Jhon Córdoba",
+      "club": "Q220854"
+    },
+    {
+      "qid": "Q116447721",
+      "name": "Gustavo Puerta",
+      "club": "Q104761"
+    },
+    {
+      "qid": "Q116447721",
+      "name": "Gustavo Puerta",
+      "club": "Q12236"
+    },
+    {
+      "qid": "Q79880395",
+      "name": "Willer Ditta",
+      "club": "Q332524"
+    },
+    {
+      "qid": "Q30050934",
+      "name": "Jaminton Campaz",
+      "club": "Q221695"
+    },
+    {
+      "qid": "Q19266811",
+      "name": "Deiver Machado",
+      "club": "Q391984"
+    },
+    {
+      "qid": "Q19266811",
+      "name": "Deiver Machado",
+      "club": "Q18232"
+    },
+    {
+      "qid": "Q20737387",
+      "name": "Davinson Sánchez",
+      "club": "Q18741"
+    },
+    {
+      "qid": "Q20645743",
+      "name": "Álvaro Montero",
+      "club": "Q391984"
+    },
+    {
+      "qid": "Q116215934",
+      "name": "Andrés Gómez",
+      "club": "Q19509"
+    },
+    {
+      "qid": "Q116215934",
+      "name": "Andrés Gómez",
+      "club": "Q5014111"
+    },
+    {
+      "qid": "Q116215934",
+      "name": "Andrés Gómez",
+      "club": "Q391353"
+    },
+    {
+      "qid": "Q116215934",
+      "name": "Andrés Gómez",
+      "club": "Q391984"
+    },
+    {
+      "qid": "Q85291597",
+      "name": "Steve Kapuadi",
+      "club": "Q677570"
+    },
+    {
+      "qid": "Q27019988",
+      "name": "Axel Tuanzebe",
+      "club": "Q18711"
+    },
+    {
+      "qid": "Q27019988",
+      "name": "Axel Tuanzebe",
+      "club": "Q72009"
+    },
+    {
+      "qid": "Q34360045",
+      "name": "Dylan Batubinsika",
+      "club": "Q732002"
+    },
+    {
+      "qid": "Q299703",
+      "name": "Gaël Kakuta",
+      "club": "Q8760"
+    },
+    {
+      "qid": "Q18128872",
+      "name": "Aaron Tshibola",
+      "club": "Q18711"
+    },
+    {
+      "qid": "Q65680079",
+      "name": "Timothy Fayulu",
+      "club": "Q321061"
+    },
+    {
+      "qid": "Q66528692",
+      "name": "Gédéon Kalulu",
+      "club": "Q74030"
+    },
+    {
+      "qid": "Q16010783",
+      "name": "Arthur Masuaku",
+      "club": "Q18747"
+    },
+    {
+      "qid": "Q26255506",
+      "name": "Diogo Dalot",
+      "club": "Q128446"
+    },
+    {
+      "qid": "Q26255506",
+      "name": "Diogo Dalot",
+      "club": "Q18656"
+    },
+    {
+      "qid": "Q26255506",
+      "name": "Diogo Dalot",
+      "club": "Q1543"
+    },
+    {
+      "qid": "Q60298555",
+      "name": "Utkir Yusupov",
+      "club": "Q1150723"
+    },
+    {
+      "qid": "Q111479885",
+      "name": "Abdukodir Khusanov",
+      "club": "Q50602"
+    },
+    {
+      "qid": "Q64853255",
+      "name": "Khojiakbar Alijonov",
+      "club": "Q732106"
+    },
+    {
+      "qid": "Q55138415",
+      "name": "Rustam Ashurmatov",
+      "club": "Q628763"
+    },
+    {
+      "qid": "Q55138415",
+      "name": "Rustam Ashurmatov",
+      "club": "Q170040"
+    },
+    {
+      "qid": "Q26209536",
+      "name": "Otabek Shukurov",
+      "club": "Q628763"
+    },
+    {
+      "qid": "Q47501392",
+      "name": "Odiljon Hamrobekov",
+      "club": "Q1150723"
+    },
+    {
+      "qid": "Q19831829",
+      "name": "Jaloliddin Masharipov",
+      "club": "Q482764"
+    },
+    {
+      "qid": "Q20641483",
+      "name": "Eldor Shomurodov",
+      "club": "Q2739"
+    },
+    {
+      "qid": "Q51670751",
+      "name": "Botirali Ergashev",
+      "club": "Q732106"
+    },
+    {
+      "qid": "Q20306806",
+      "name": "Dostonbek Khamdamov",
+      "club": "Q19353"
+    },
+    {
+      "qid": "Q10549264",
+      "name": "Igor Sergeev",
+      "club": "Q194170"
+    },
+    {
+      "qid": "Q10549264",
+      "name": "Igor Sergeev",
+      "club": "Q477814"
+    },
+    {
+      "qid": "Q123995807",
+      "name": "Avazbek Ulmasaliev",
+      "club": "Q770528"
+    },
+    {
+      "qid": "Q65950201",
+      "name": "Josip Stanišić",
+      "club": "Q994701"
+    },
+    {
+      "qid": "Q65950201",
+      "name": "Josip Stanišić",
+      "club": "Q15789"
+    },
+    {
+      "qid": "Q29427316",
+      "name": "Marin Pongračić",
+      "club": "Q15789"
+    },
+    {
+      "qid": "Q27914817",
+      "name": "Nikola Moro",
+      "club": "Q172803"
+    },
+    {
+      "qid": "Q27106995",
+      "name": "Kristijan Jakić",
+      "club": "Q959086"
+    },
+    {
+      "qid": "Q67999144",
+      "name": "Luka Sučić",
+      "club": "Q1387293"
+    },
+    {
+      "qid": "Q67999144",
+      "name": "Luka Sučić",
+      "club": "Q10315"
+    },
+    {
+      "qid": "Q51159914",
+      "name": "Dominik Kotarski",
+      "club": "Q81888"
+    },
+    {
+      "qid": "Q51159914",
+      "name": "Dominik Kotarski",
+      "club": "Q918425"
+    },
+    {
+      "qid": "Q42319683",
+      "name": "Martin Erlić",
+      "club": "Q2693"
+    },
+    {
+      "qid": "Q84810924",
+      "name": "Petar Musa",
+      "club": "Q194393"
+    },
+    {
+      "qid": "Q84810924",
+      "name": "Petar Musa",
+      "club": "Q219703"
+    },
+    {
+      "qid": "Q66370589",
+      "name": "Kwasi Sibo",
+      "club": "Q108903451"
+    },
+    {
+      "qid": "Q26251815",
+      "name": "Brandon Thomas-Asante",
+      "club": "Q248188"
+    },
+    {
+      "qid": "Q25939340",
+      "name": "Gideon Mensah",
+      "club": "Q994811"
+    },
+    {
+      "qid": "Q55934972",
+      "name": "Elisha Owusu",
+      "club": "Q704"
+    },
+    {
+      "qid": "Q55934972",
+      "name": "Elisha Owusu",
+      "club": "Q19512"
+    },
+    {
+      "qid": "Q106212969",
+      "name": "Benjamin Asare",
+      "club": "Q339560"
+    },
+    {
+      "qid": "Q317389",
+      "name": "Abdul Rahman Baba",
+      "club": "Q204888"
+    },
+    {
+      "qid": "Q67905022",
+      "name": "Jerome Opoku",
+      "club": "Q18708"
+    },
+    {
+      "qid": "Q90307470",
+      "name": "Augustine Boakye",
+      "club": "Q2649957"
+    },
+    {
+      "qid": "Q117848823",
+      "name": "Kojo Peprah Oppong",
+      "club": "Q108001798"
+    },
+    {
+      "qid": "Q117848823",
+      "name": "Kojo Peprah Oppong",
+      "club": "Q725332"
+    },
+    {
+      "qid": "Q117848823",
+      "name": "Kojo Peprah Oppong",
+      "club": "Q105320031"
+    },
+    {
+      "qid": "Q86269576",
+      "name": "Kamaldeen Sulemana",
+      "club": "Q210025"
+    },
+    {
+      "qid": "Q51331558",
+      "name": "César Blackman",
+      "club": "Q841378"
+    },
+    {
+      "qid": "Q108543955",
+      "name": "José Córdoba",
+      "club": "Q2979808"
+    },
+    {
+      "qid": "Q108543955",
+      "name": "José Córdoba",
+      "club": "Q108865196"
+    },
+    {
+      "qid": "Q108543955",
+      "name": "José Córdoba",
+      "club": "Q16837310"
+    },
+    {
+      "qid": "Q108543955",
+      "name": "José Córdoba",
+      "club": "Q144190"
+    },
+    {
+      "qid": "Q117239349",
+      "name": "Edgardo Fariña",
+      "club": "Q9078466"
+    },
+    {
+      "qid": "Q117239349",
+      "name": "Edgardo Fariña",
+      "club": "Q2979808"
+    },
+    {
+      "qid": "Q117239349",
+      "name": "Edgardo Fariña",
+      "club": "Q2212675"
+    },
+    {
+      "qid": "Q117239349",
+      "name": "Edgardo Fariña",
+      "club": "Q1024341"
+    },
+    {
+      "qid": "Q18921648",
+      "name": "Ismael Díaz",
+      "club": "Q8760"
+    },
+    {
+      "qid": "Q114216100",
+      "name": "César Samudio",
+      "club": "Q1861524"
+    },
+    {
+      "qid": "Q114216100",
+      "name": "César Samudio",
+      "club": "Q940894"
+    },
+    {
+      "qid": "Q114216100",
+      "name": "César Samudio",
+      "club": "Q29470395"
+    },
+    {
+      "qid": "Q114216100",
+      "name": "César Samudio",
+      "club": "Q1871928"
+    },
+    {
+      "qid": "Q114216100",
+      "name": "César Samudio",
+      "club": "Q2979808"
+    },
+    {
+      "qid": "Q114216100",
+      "name": "César Samudio",
+      "club": "Q1023201"
+    },
+    {
+      "qid": "Q62006245",
+      "name": "Jiovany Ramos",
+      "club": "Q2060037"
+    },
+    {
+      "qid": "Q61990402",
+      "name": "Carlos Harvey",
+      "club": "Q16842924"
+    },
+    {
+      "qid": "Q38764408",
+      "name": "Andrés Andrade",
+      "club": "Q2060037"
+    },
+    {
+      "qid": "Q38764408",
+      "name": "Andrés Andrade",
+      "club": "Q5510497"
+    },
+    {
+      "qid": "Q38764408",
+      "name": "Andrés Andrade",
+      "club": "Q20994357"
+    },
+    {
+      "qid": "Q117304605",
+      "name": "Azarias Londoño",
+      "club": "Q2227845"
+    },
+    {
+      "qid": "Q117304605",
+      "name": "Azarias Londoño",
+      "club": "Q16959492"
+    },
+    {
+      "qid": "Q117304605",
+      "name": "Azarias Londoño",
+      "club": "Q1024337"
+    },
+    {
+      "qid": "Q117304605",
+      "name": "Azarias Londoño",
+      "club": "Q1853273"
+    },
+    {
+      "qid": "Q117818408",
+      "name": "Jorge Gutiérrez",
+      "club": "Q921299"
+    },
+    {
+      "qid": "Q117818408",
+      "name": "Jorge Gutiérrez",
+      "club": "Q680336"
+    },
+    {
+      "qid": "Q117818408",
+      "name": "Jorge Gutiérrez",
+      "club": "Q628860"
+    }
+  ],
+  "p9_low_confidence": 5157,
+  "zero_stint_players": [],
+  "current_club_excluded": [],
+  "excluded_club_refs": 2034,
+  "dob_mismatch": [
+    {
+      "name": "Alexandr Sojka",
+      "team": "Czech Republic",
+      "qid": "Q131432595",
+      "squad_dob": "2003-04-02",
+      "wd_dob": "2003-00-00"
+    },
+    {
+      "name": "Lyle Foster",
+      "team": "South Africa",
+      "qid": "Q42725482",
+      "squad_dob": "2000-09-03",
+      "wd_dob": "2000-09-04"
+    },
+    {
+      "name": "Nkosinathi Sibisi",
+      "team": "South Africa",
+      "qid": "Q58580967",
+      "squad_dob": "1995-09-22",
+      "wd_dob": "1995-05-22"
+    },
+    {
+      "name": "Nathan Saliba",
+      "team": "Canada",
+      "qid": "Q116908746",
+      "squad_dob": "2004-02-07",
+      "wd_dob": "2004-08-29"
+    },
+    {
+      "name": "Abdulaziz Hatem",
+      "team": "Qatar",
+      "qid": "Q4665805",
+      "squad_dob": "1990-01-01",
+      "wd_dob": "1990-10-28"
+    },
+    {
+      "name": "Ahmed Fathy",
+      "team": "Qatar",
+      "qid": "Q24005986",
+      "squad_dob": "1993-01-25",
+      "wd_dob": "1993-06-25"
+    },
+    {
+      "name": "Tahsin Jamshid",
+      "team": "Qatar",
+      "qid": "Q126258395",
+      "squad_dob": "2006-06-16",
+      "wd_dob": "2006-01-01"
+    },
+    {
+      "name": "Mohamed Manai",
+      "team": "Qatar",
+      "qid": "Q137394484",
+      "squad_dob": "2002-10-25",
+      "wd_dob": "2003-10-23"
+    },
+    {
+      "name": "Martin Expérience",
+      "team": "Haiti",
+      "qid": "Q107426681",
+      "squad_dob": "1999-03-09",
+      "wd_dob": "1998-03-09"
+    },
+    {
+      "name": "Amine Sbaï",
+      "team": "Morocco",
+      "qid": "Q114841915",
+      "squad_dob": "2000-11-05",
+      "wd_dob": "2002-08-08"
+    },
+    {
+      "name": "Ross Stewart",
+      "team": "Scotland",
+      "qid": "Q47126518",
+      "squad_dob": "1996-07-11",
+      "wd_dob": "1996-09-01"
+    },
+    {
+      "name": "Cammy Devlin",
+      "team": "Australia",
+      "qid": "Q57017726",
+      "squad_dob": "1998-06-07",
+      "wd_dob": "1999-01-01"
+    },
+    {
+      "name": "Andrés Cubas",
+      "team": "Paraguay",
+      "qid": "Q16298600",
+      "squad_dob": "1996-05-11",
+      "wd_dob": "1996-06-22"
+    },
+    {
+      "name": "Gabriel Ávalos",
+      "team": "Paraguay",
+      "qid": "Q14592575",
+      "squad_dob": "1991-07-09",
+      "wd_dob": "1990-10-12"
+    },
+    {
+      "name": "Tyrick Bodak",
+      "team": "Curaçao",
+      "qid": "Q108858343",
+      "squad_dob": "2002-05-15",
+      "wd_dob": "2002-02-15"
+    },
+    {
+      "name": "Kaishū Sano",
+      "team": "Japan",
+      "qid": "Q65029955",
+      "squad_dob": "2000-12-30",
+      "wd_dob": "2000-01-01"
+    },
+    {
+      "name": "Yasser Ibrahim",
+      "team": "Egypt",
+      "qid": "Q17386078",
+      "squad_dob": "1993-02-10",
+      "wd_dob": "1989-05-08"
+    },
+    {
+      "name": "Mohamed Hany",
+      "team": "Egypt",
+      "qid": "Q18705249",
+      "squad_dob": "1996-02-02",
+      "wd_dob": "1996-01-25"
+    },
+    {
+      "name": "Karim Hafez",
+      "team": "Egypt",
+      "qid": "Q18225149",
+      "squad_dob": "1996-03-12",
+      "wd_dob": "1995-03-12"
+    },
+    {
+      "name": "El Mahdy Soliman",
+      "team": "Egypt",
+      "qid": "Q4702779",
+      "squad_dob": "1987-06-08",
+      "wd_dob": "1986-11-30"
+    },
+    {
+      "name": "Mohanad Lasheen",
+      "team": "Egypt",
+      "qid": "Q41023561",
+      "squad_dob": "1996-05-29",
+      "wd_dob": "1996-01-01"
+    },
+    {
+      "name": "Marwan Attia",
+      "team": "Egypt",
+      "qid": "Q116621640",
+      "squad_dob": "1998-08-01",
+      "wd_dob": "1998-08-12"
+    },
+    {
+      "name": "Saleh Hardani",
+      "team": "Iran",
+      "qid": "Q70226579",
+      "squad_dob": "1998-12-26",
+      "wd_dob": "1996-09-14"
+    },
+    {
+      "name": "Ali Nemati",
+      "team": "Iran",
+      "qid": "Q65195011",
+      "squad_dob": "1996-02-08",
+      "wd_dob": "1996-02-07"
+    },
+    {
+      "name": "Danial Eiri",
+      "team": "Iran",
+      "qid": "Q137779066",
+      "squad_dob": "2003-10-26",
+      "wd_dob": "2003-01-01"
+    },
+    {
+      "name": "Ali Majrashi",
+      "team": "Saudi Arabia",
+      "qid": "Q47499724",
+      "squad_dob": "1999-10-02",
+      "wd_dob": "1999-10-01"
+    },
+    {
+      "name": "Ali Lajami",
+      "team": "Saudi Arabia",
+      "qid": "Q22812479",
+      "squad_dob": "1996-04-24",
+      "wd_dob": "1996-04-25"
+    },
+    {
+      "name": "Khalid Al-Ghannam",
+      "team": "Saudi Arabia",
+      "qid": "Q64147458",
+      "squad_dob": "2000-11-08",
+      "wd_dob": "2000-11-07"
+    },
+    {
+      "name": "Abdullah Al-Hamdan",
+      "team": "Saudi Arabia",
+      "qid": "Q47499719",
+      "squad_dob": "1999-09-13",
+      "wd_dob": "1999-09-12"
+    },
+    {
+      "name": "Moteb Al-Harbi",
+      "team": "Saudi Arabia",
+      "qid": "Q97698786",
+      "squad_dob": "2000-02-20",
+      "wd_dob": "2000-02-19"
+    },
+    {
+      "name": "Marc Pubill",
+      "team": "Spain",
+      "qid": "Q110220404",
+      "squad_dob": "2003-06-20",
+      "wd_dob": "2003-06-30"
+    },
+    {
+      "name": "Manaf Younis",
+      "team": "Iraq",
+      "qid": "Q110111698",
+      "squad_dob": "1996-11-16",
+      "wd_dob": "1996-12-29"
+    },
+    {
+      "name": "Bamba Dieng",
+      "team": "Senegal",
+      "qid": "Q105426667",
+      "squad_dob": "2000-03-23",
+      "wd_dob": "2000-09-01"
+    },
+    {
+      "name": "El Hadji Malick Diouf",
+      "team": "Senegal",
+      "qid": "Q123479947",
+      "squad_dob": "2004-12-29",
+      "wd_dob": "2004-12-28"
+    },
+    {
+      "name": "Yacine Titraoui",
+      "team": "Algeria",
+      "qid": "Q109986890",
+      "squad_dob": "2003-07-26",
+      "wd_dob": "2003-08-26"
+    },
+    {
+      "name": "Emiliano Martínez",
+      "team": "Argentina",
+      "qid": "Q3275904",
+      "squad_dob": "1992-09-02",
+      "wd_dob": "1992-09-01"
+    },
+    {
+      "name": "Yazan Al-Arab",
+      "team": "Jordan",
+      "qid": "Q47105682",
+      "squad_dob": "1996-01-31",
+      "wd_dob": "1995-09-08"
+    },
+    {
+      "name": "Odeh Al-Fakhouri",
+      "team": "Jordan",
+      "qid": "Q130508829",
+      "squad_dob": "2005-11-22",
+      "wd_dob": "2005-11-20"
+    },
+    {
+      "name": "Daniel Muñoz",
+      "team": "Colombia",
+      "qid": "Q56703599",
+      "squad_dob": "1996-05-26",
+      "wd_dob": "1996-05-25"
+    },
+    {
+      "name": "Willer Ditta",
+      "team": "Colombia",
+      "qid": "Q79880395",
+      "squad_dob": "1998-01-23",
+      "wd_dob": "1997-01-23"
+    },
+    {
+      "name": "Cucho Hernández",
+      "team": "Colombia",
+      "qid": "Q27037962",
+      "squad_dob": "1999-04-20",
+      "wd_dob": "1999-04-22"
+    },
+    {
+      "name": "Brian Cipenga",
+      "team": "DR Congo",
+      "qid": "Q127271091",
+      "squad_dob": "1998-03-11",
+      "wd_dob": "1998-01-01"
+    },
+    {
+      "name": "Edo Kayembe",
+      "team": "DR Congo",
+      "qid": "Q46699047",
+      "squad_dob": "1998-06-03",
+      "wd_dob": "1998-08-03"
+    },
+    {
+      "name": "Brandon Thomas-Asante",
+      "team": "Ghana",
+      "qid": "Q26251815",
+      "squad_dob": "1998-12-29",
+      "wd_dob": "1999-12-29"
+    },
+    {
+      "name": "José Córdoba",
+      "team": "Panama",
+      "qid": "Q108543955",
+      "squad_dob": "2001-06-03",
+      "wd_dob": "2001-03-06"
+    },
+    {
+      "name": "César Samudio",
+      "team": "Panama",
+      "qid": "Q114216100",
+      "squad_dob": "1994-02-23",
+      "wd_dob": "1994-03-26"
+    }
+  ],
+  "search_fallback": [],
+  "no_wikidata_or_infobox": [
+    {
+      "name": "Tomoki Hayakawa",
+      "team": "Japan",
+      "qid": "Q105704210"
+    },
+    {
+      "name": "Kelvin Pires",
+      "team": "Cape Verde",
+      "qid": "Q107806484"
+    },
+    {
+      "name": "Hélio Varela",
+      "team": "Cape Verde",
+      "qid": "Q121907216"
+    },
+    {
+      "name": "Achref Abada",
+      "team": "Algeria",
+      "qid": "Q136462891"
+    },
+    {
+      "name": "Yacine Titraoui",
+      "team": "Algeria",
+      "qid": "Q109986890"
+    },
+    {
+      "name": "Samir Chergui",
+      "team": "Algeria",
+      "qid": "Q104745615"
+    },
+    {
+      "name": "Brian Cipenga",
+      "team": "DR Congo",
+      "qid": "Q127271091"
+    },
+    {
+      "name": "Matthieu Epolo",
+      "team": "DR Congo",
+      "qid": "Q113628776"
+    }
+  ]
+}
