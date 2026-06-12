@@ -1,0 +1,367 @@
+{
+  "playerCount": 1248,
+  "clubCount": 1578,
+  "stintCount": 15038,
+  "clubSeasonGroupCount": 7534,
+  "connectedGroupCount": 2776,
+  "edgeCount": 11035,
+  "multiContextEdgeCount": 5735,
+  "connectedComponentCount": 35,
+  "largestComponentSize": 1212,
+  "crossNationalEdgeCount": 8998,
+  "countries": 48,
+  "seasons": [
+    "1995-96",
+    "1996-97",
+    "1997-98",
+    "1998-99",
+    "1999-00",
+    "2000-01",
+    "2001-02",
+    "2002-03",
+    "2003-04",
+    "2004-05",
+    "2005-06",
+    "2006-07",
+    "2007-08",
+    "2008-09",
+    "2009-10",
+    "2010-11",
+    "2011-12",
+    "2012-13",
+    "2013-14",
+    "2014-15",
+    "2015-16",
+    "2016-17",
+    "2017-18",
+    "2018-19",
+    "2019-20",
+    "2020-21",
+    "2021-22",
+    "2022-23",
+    "2023-24",
+    "2024-25",
+    "2025-26",
+    "2026-27"
+  ],
+  "psgSanity": {
+    "hasVitinha": true,
+    "hasNunoMendes": true,
+    "hasGoncaloRamos": true,
+    "hasJoaoNeves": false,
+    "playerNames": [
+      "Achraf Hakimi",
+      "Bradley Barcola",
+      "Fabián Ruiz",
+      "Gonçalo Ramos",
+      "Ismaël Gharbi",
+      "Kylian Mbappé",
+      "Leandro Paredes",
+      "Lee Kang-in",
+      "Lucas Hernandez",
+      "Manuel Ugarte",
+      "Marquinhos",
+      "Neymar",
+      "Nuno Mendes",
+      "Ousmane Dembélé",
+      "Vitinha",
+      "Warren Zaïre-Emery"
+    ]
+  },
+  "topGroups": [
+    {
+      "clubId": "Q15789",
+      "clubName": "FC Bayern Munich",
+      "season": "2025-26",
+      "size": 22,
+      "countries": 13
+    },
+    {
+      "clubId": "Q50602",
+      "clubName": "Manchester City F.C.",
+      "season": "2025-26",
+      "size": 22,
+      "countries": 14
+    },
+    {
+      "clubId": "Q15789",
+      "clubName": "FC Bayern Munich",
+      "season": "2023-24",
+      "size": 21,
+      "countries": 12
+    },
+    {
+      "clubId": "Q18656",
+      "clubName": "Manchester United F.C.",
+      "season": "2022-23",
+      "size": 21,
+      "countries": 15
+    },
+    {
+      "clubId": "Q15789",
+      "clubName": "FC Bayern Munich",
+      "season": "2024-25",
+      "size": 20,
+      "countries": 11
+    },
+    {
+      "clubId": "Q9617",
+      "clubName": "Arsenal F.C.",
+      "season": "2025-26",
+      "size": 18,
+      "countries": 12
+    },
+    {
+      "clubId": "Q15789",
+      "clubName": "FC Bayern Munich",
+      "season": "2022-23",
+      "size": 18,
+      "countries": 10
+    },
+    {
+      "clubId": "Q50602",
+      "clubName": "Manchester City F.C.",
+      "season": "2023-24",
+      "size": 18,
+      "countries": 11
+    },
+    {
+      "clubId": "Q50602",
+      "clubName": "Manchester City F.C.",
+      "season": "2024-25",
+      "size": 18,
+      "countries": 10
+    },
+    {
+      "clubId": "Q50602",
+      "clubName": "Manchester City F.C.",
+      "season": "2020-21",
+      "size": 18,
+      "countries": 9
+    },
+    {
+      "clubId": "Q73965",
+      "clubName": "Al Hilal SFC",
+      "season": "2025-26",
+      "size": 17,
+      "countries": 6
+    },
+    {
+      "clubId": "Q483020",
+      "clubName": "Paris Saint-Germain FC",
+      "season": "2024-25",
+      "size": 17,
+      "countries": 10
+    }
+  ],
+  "topClubs": [
+    {
+      "clubId": "Q50602",
+      "clubName": "Manchester City F.C.",
+      "edgeContexts": 1156,
+      "groups": 14
+    },
+    {
+      "clubId": "Q15789",
+      "clubName": "FC Bayern Munich",
+      "edgeContexts": 1061,
+      "groups": 15
+    },
+    {
+      "clubId": "Q18656",
+      "clubName": "Manchester United F.C.",
+      "edgeContexts": 836,
+      "groups": 11
+    },
+    {
+      "clubId": "Q9617",
+      "clubName": "Arsenal F.C.",
+      "edgeContexts": 644,
+      "groups": 12
+    },
+    {
+      "clubId": "Q8682",
+      "clubName": "Real Madrid Club de Fútbol",
+      "edgeContexts": 576,
+      "groups": 14
+    },
+    {
+      "clubId": "Q483020",
+      "clubName": "Paris Saint-Germain FC",
+      "edgeContexts": 564,
+      "groups": 13
+    },
+    {
+      "clubId": "Q7156",
+      "clubName": "Fc Barcelona",
+      "edgeContexts": 511,
+      "groups": 19
+    },
+    {
+      "clubId": "Q9616",
+      "clubName": "Chelsea F.C.",
+      "edgeContexts": 505,
+      "groups": 15
+    },
+    {
+      "clubId": "Q11938",
+      "clubName": "PSV Eindhoven",
+      "edgeContexts": 494,
+      "groups": 15
+    },
+    {
+      "clubId": "Q1130849",
+      "clubName": "Liverpool F.C.",
+      "edgeContexts": 382,
+      "groups": 10
+    },
+    {
+      "clubId": "Q73965",
+      "clubName": "Al Hilal SFC",
+      "edgeContexts": 361,
+      "groups": 9
+    },
+    {
+      "clubId": "Q19453",
+      "clubName": "Brighton & Hove Albion F.C.",
+      "edgeContexts": 339,
+      "groups": 9
+    }
+  ],
+  "topPlayers": [
+    {
+      "playerId": "Q6298063",
+      "playerName": "João Cancelo",
+      "country": "Portugal",
+      "degree": 94,
+      "crossNationalDegree": 86
+    },
+    {
+      "playerId": "Q472300",
+      "playerName": "Marcel Sabitzer",
+      "country": "Austria",
+      "degree": 70,
+      "crossNationalDegree": 65
+    },
+    {
+      "playerId": "Q27049064",
+      "playerName": "João Félix",
+      "country": "Portugal",
+      "degree": 66,
+      "crossNationalDegree": 60
+    },
+    {
+      "playerId": "Q20435178",
+      "playerName": "Alexander Nübel",
+      "country": "Germany",
+      "degree": 62,
+      "crossNationalDegree": 48
+    },
+    {
+      "playerId": "Q16499882",
+      "playerName": "Leroy Sané",
+      "country": "Germany",
+      "degree": 61,
+      "crossNationalDegree": 53
+    },
+    {
+      "playerId": "Q2210473",
+      "playerName": "Wout Weghorst",
+      "country": "Netherlands",
+      "degree": 61,
+      "crossNationalDegree": 58
+    },
+    {
+      "playerId": "Q313316",
+      "playerName": "Romelu Lukaku",
+      "country": "Belgium",
+      "degree": 58,
+      "crossNationalDegree": 53
+    },
+    {
+      "playerId": "Q17074511",
+      "playerName": "Ederson Moraes",
+      "country": "Brazil",
+      "degree": 55,
+      "crossNationalDegree": 53
+    },
+    {
+      "playerId": "Q29441778",
+      "playerName": "Noa Lang",
+      "country": "Netherlands",
+      "degree": 55,
+      "crossNationalDegree": 49
+    },
+    {
+      "playerId": "Q24084301",
+      "playerName": "Donyell Malen",
+      "country": "Netherlands",
+      "degree": 55,
+      "crossNationalDegree": 53
+    },
+    {
+      "playerId": "Q23703372",
+      "playerName": "Théo Hernandez",
+      "country": "France",
+      "degree": 55,
+      "crossNationalDegree": 53
+    },
+    {
+      "playerId": "Q11571",
+      "playerName": "Cristiano Ronaldo",
+      "country": "Portugal",
+      "degree": 55,
+      "crossNationalDegree": 51
+    }
+  ],
+  "countryPairs": [
+    {
+      "pair": "Austria ↔ Germany",
+      "count": 83
+    },
+    {
+      "pair": "Portugal ↔ Spain",
+      "count": 57
+    },
+    {
+      "pair": "Curaçao ↔ Netherlands",
+      "count": 55
+    },
+    {
+      "pair": "France ↔ Portugal",
+      "count": 53
+    },
+    {
+      "pair": "Argentina ↔ Spain",
+      "count": 50
+    },
+    {
+      "pair": "England ↔ Spain",
+      "count": 50
+    },
+    {
+      "pair": "Brazil ↔ Portugal",
+      "count": 46
+    },
+    {
+      "pair": "Brazil ↔ France",
+      "count": 45
+    },
+    {
+      "pair": "Argentina ↔ Netherlands",
+      "count": 44
+    },
+    {
+      "pair": "Argentina ↔ Brazil",
+      "count": 42
+    },
+    {
+      "pair": "Austria ↔ Croatia",
+      "count": 41
+    },
+    {
+      "pair": "Belgium ↔ England",
+      "count": 41
+    }
+  ]
+}

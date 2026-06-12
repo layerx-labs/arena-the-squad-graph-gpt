@@ -1,0 +1,15 @@
+import { readFileSync } from 'node:fs';
+import { buildGraph, teammates } from '../src/lib/graph';
+import type { PlayersDataset } from '../src/lib/types';
+const data = JSON.parse(readFileSync('public/data/players.json','utf8')) as PlayersDataset;
+const index = buildGraph(data);
+const stats = index.stats;
+const fail = (msg: string) => { throw new Error(msg); };
+if (stats.playerCount !== data.meta.player_count) fail(`player count mismatch ${stats.playerCount}`);
+if (stats.clubCount !== data.meta.club_count) fail(`club count mismatch ${stats.clubCount}`);
+if (stats.edgeCount < 10000 || stats.edgeCount > 13000) fail(`edge count outside sanity range: ${stats.edgeCount}`);
+const psg = teammates(index, 'Q483020', '2023-24').map(p => p.name);
+for (const name of ['Vitinha','Nuno Mendes','Gonçalo Ramos']) if (!psg.includes(name)) fail(`PSG sanity missing ${name}`);
+if (psg.includes('João Neves')) fail('PSG sanity incorrectly includes João Neves in 2023-24');
+console.log(JSON.stringify(stats, null, 2));
+console.log('Validation passed: joins use exact club_id + season groups, PSG 2023-24 sanity OK.');
